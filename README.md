@@ -5,9 +5,11 @@ Welcome to the **Data Science Course Repository**! This is your one-stop resourc
 **All of the Study Material is included in our table of contents google docs, the report of each Session will be written in another google doc.**
 
 Table of Contents:
+
 https://docs.google.com/document/d/11TuKBmewibeGXXxRjQYvr3OVuKhHLDg6HfUhi2PQgkM/edit?usp=sharing
 
 Session report and assignments:
+
 https://docs.google.com/document/d/1WBSa7rUD-YeDZb5jSVs9K34gNxoVcQjLZVufltKY5Jw/edit?usp=sharing
 
 ---
