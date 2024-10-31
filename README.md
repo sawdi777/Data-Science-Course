@@ -2,6 +2,14 @@
 
 Welcome to the **Data Science Course Repository**! This is your one-stop resource to dive into the world of data science and artificial intelligence, combining both foundational skills and advanced techniques. By the end of this journey, you’ll not only know how to handle data but also how to transform it into impactful insights that drive real-world decisions. Let’s embark on a journey where data meets creativity and science meets intuition!
 
+**All of the Study Material is included in our table of contents google docs, the report of each Session will be written in another google doc.**
+
+Table of Contents:
+https://docs.google.com/document/d/11TuKBmewibeGXXxRjQYvr3OVuKhHLDg6HfUhi2PQgkM/edit?usp=sharing
+
+Session report and assignments:
+https://docs.google.com/document/d/1WBSa7rUD-YeDZb5jSVs9K34gNxoVcQjLZVufltKY5Jw/edit?usp=sharing
+
 ---
 
 ## 🌟 What You’ll Learn
