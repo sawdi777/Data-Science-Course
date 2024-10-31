@@ -48,11 +48,17 @@ This course offers a hands-on approach, guiding you through each phase of the da
 To make it easy to navigate, here’s a quick breakdown of this repo’s layout:
 
 ├── 1_Python_Basics/
+
 ├── 2_NumPy_Pandas/
+
 ├── 3_Data_Visualization/
+
 ├── 4_Data_Preprocessing/
+
 ├── 5_Machine_Learning/
+
 ├── 6_OpenCV_Image_Processing/
+
 └── 7_Final_Project/
 
 Each folder contains the following:
@@ -80,7 +86,9 @@ Your capstone project will bring together all the skills you’ve developed. You
 This course is as much yours as it is a learning tool! Share your insights, raise issues, and contribute to improve this repository for future data science enthusiasts.
 
 **Fork this repo**
+
 Create a branch for your feature (git checkout -b feature/YourFeature)
+
 Submit a pull request for review!
 
 ---
