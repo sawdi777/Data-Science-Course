@@ -8,13 +8,14 @@ Youtube Channel:
 https://www.youtube.com/@IntelligenceCommunity
 
 Table of Contents:
-
 https://docs.google.com/document/d/11TuKBmewibeGXXxRjQYvr3OVuKhHLDg6HfUhi2PQgkM/edit?usp=sharing
 
 Session report and assignments:
-
 https://docs.google.com/document/d/1WBSa7rUD-YeDZb5jSVs9K34gNxoVcQjLZVufltKY5Jw/edit?usp=sharing
+---
 
+First Session Video on YouTube:
+https://youtu.be/Wbhq5kOkCbg
 ---
 
 ## 🌟 What You’ll Learn
